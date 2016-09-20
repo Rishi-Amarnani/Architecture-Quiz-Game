@@ -1,0 +1,296 @@
+32
+A.Stonehenge
+A.Stonehenge
+B.Silsbury Hill
+C.Cave Wall Paintings
+D.Malta Temples
+3
+England.
+Ancestral Burial Ground.
+Post & Lintel.
+D.Cave Wall Paintings
+A.Stonehenge
+B.Malta Temples
+C.Silsbury Hill
+D.Cave Wall Paintings
+3
+Pre-Historic.
+Located in Asia & Europe.
+Perhaps used for Communication.
+A.Malta Temples
+A.Malta Temples
+B.Silsbury Hill
+C.Easter Island
+D.Stonehenge
+3
+Pre-Historic.
+Compression.
+Post & Lintel.
+D.Silsbury Hill
+A.Stonehenge
+B.Silsbury Hill
+C.Easter Island
+D.Malta Temples
+3
+Pre-History(3000-2400 B.C.).
+Located in England.
+Largest man-made monument in Europe.
+D.Easter Island
+A.Stonehenge
+B.Malta Temples
+C.Cave Wall Paintings
+D.Easter Island
+3
+Monumental States.
+Pre-History.
+Created by the Rapa Nui People.
+C.Post & Lintel
+A.Stonehenge
+B.Malta Temples
+C.Post & Lintel
+D.Silsbury Hill
+3
+Compression.
+Pre-History.
+Earliest Structural Form used by Man.
+A.Giza Pyramids
+A.Giza Pyramids
+B.Temple at Karnak
+C.Sphinx
+D.Deir-el-Bahari
+4
+Egypt.
+Old Kingdom.
+Burial Places for Egyptian Kings.
+Based on the Mastaba.
+C.Temple at Karnak Entry
+A.Temple at Karnak
+B.Sphinx
+C.Temple at Karnak Entry
+D.Deir-El-Bahari
+4
+Egypt.
+Middle Kingdom.
+Columns & Beams.
+Masonry Walls.
+A.Deir-El-Bahari
+A.Deir-El-Bahari
+B.Sphinx
+C.Mastaba
+D.Temple at Karnak Entry
+4
+Egypt.
+New Kingdom.
+Highly Stylized.
+Burial Ground of Queen Aatsebhut.
+D.Mastaba
+A.Deir-El-Bahari
+B.Temple at Karnak Entry
+C.Sphinx
+D.Mastaba
+4
+Egypt.
+Burial Area is Underground.
+Made of Sandstone.
+Pre-Historic Burial Marker.
+C.Sphinx
+A.Temple at Karnak
+B.Silsbury Hill
+C.Sphinx
+D.Mastaba
+4
+Head may resemble Pharaoh.
+Old Kingdom.
+Egypt.
+Riddle.
+A.Temple at Karnak
+A.Temple at Karnak
+B.Giza Pyramids
+C.Temple at Karnak Entry
+D.Mastaba
+4
+Egypt.
+Lotus Flower Columns.
+Hieroglyphics.
+Trabeation.
+B.Colleseum
+A.Parthenon
+B.Colleseum
+C.Pantheon
+D.Horizontal Thrust
+3
+Rome, Italy.
+Concrete.
+Arch Construction.
+C.Aquaduct of Segovia
+A.Parthenon
+B.Colleseum
+C.Aquaduct of Segovia
+D.Pantheon
+3
+Roman.
+Arch Construction.
+Carried Water Over Vast Distances.
+B.Pantheon
+A.Parthenon
+B.Pantheon
+C.Aquaduct of Segovia
+D.Dar-El-Bahari
+4
+Rome, Italy.
+Occulus.
+Coffered Ceiling.
+Interior View of Dome.
+A.Parthenon
+A.Parthenon
+B.Pantheon
+C.Aquaduct of Segovia
+D.Colleseum
+3
+Athens, Greece.
+Acropolis.
+Entasis.
+B.Horizontal Thrust
+A.Colleseum
+B.Horizontal Thrust
+C.Vaulting
+D.Underground Thrust
+3
+Structural Force.
+Natural to Arches.
+Keystone.
+D.Pantheon
+A.Parthenon
+B.Aquaduct of Segovia
+C.Colleseum
+D.Pantheon
+3
+Rome, Italy.
+Dome.
+Temple of the Gods.
+B.Lessay Abbey
+A.Cross-In-Plan
+B.Lessay Abbey
+C.Arches & Arcades
+D.Parthenon
+3
+Romanesque.
+Normandy, France.
+Walls & Buttresses.
+C.Arches & Arcades
+A.Piers & Columns
+B.Horizontal Thrust
+C.Arches & Arcades
+D.Vault
+3
+Are one of the characteristics of Romanesque Architecture.
+Create Outdoor Spaces.
+Used to Frame Entryways.
+D.Vault
+A.Piers & Columns
+B.Horizontal Thrust
+C.Arches & Arcades
+D.Vault
+3
+Structural Innovation.
+Originally from Rome and Egypt.
+Widespread in Church Architecture.
+B.Cross-In-Plan
+A.Piers & Columns
+B.Cross-In-Plan
+C.Lessay Abbey
+D.Vault
+3
+Romanesque.
+Masonry Construction.
+Procession.
+D.Piers & Columns
+A.Vault
+B.Cross-In-Plan
+C.Lessay Abbey
+D.Piers & Columns
+3
+Romanesque.
+Church Architecture.
+Express the Beauty of the Church.
+D.Vault
+A.Piers & Columns
+B.Horizontal Thrust
+C.Arches & Arcades
+D.Vault
+3
+Structural Innovation.
+Originally from Rome and Egypt.
+Widespread in Church Architecture.
+B.Notre Dame
+A.Chartres Cathedral
+B.Notre Dame
+C.The Louvre
+D.Palace of Versailles
+3
+Paris, France.
+Rayonnant Window.
+Has Flying Buttresses.
+D.Gargoyle
+A.Buttress
+B.Arch
+C.Vault
+D.Gargoyle
+3
+Transmit Water from roof.
+Most famous ones are at Notre Dame in Paris.
+Conveys the form of evil.
+C.Crazy Vaulting
+A.Internal Arching
+B.Inverse Buttresses
+C.Crazy Vaulting
+D.Gargoyles
+3
+Appears in Late Gothic Architecture.
+Arched form.
+Ribs transmit primary structural load.
+A.Chartres Cathedral
+A.Chartres Cathedral
+B.The Louvre
+C.Sainte-Chapelle
+D.Notre Dame
+3
+Paris, France.
+Known for its stained glass windows.
+Rayonnant window.
+B.Flying Buttresses & Pointed Arches
+A.External Support Mechanisms
+B.Flying Buttresses & Pointed Arches
+C.Thrusts
+D.Pointed Pillars with Buttresses
+3
+Characteristics of Gothic Architecture.
+Help counteract lateral force.
+Ascend to the Heavens.
+B.Stained Glass
+A.Tinted Glass
+B.Stained Glass
+C.Church Glass
+D.Gothic-style Glass
+3
+Religious Architecture.
+Help Educate the Masses.
+Custom-Made.
+A.Ospeclale Degli Innocenti
+A.Ospeclale Degli Innocenti
+B.Ospeclale Deglia
+C.Sainte-Chapelle
+D.Vatican
+3
+Florence, Italy.
+Designed by Brunelleschi.
+Arcade.
+A.Vatican
+A.Vatican
+B.Sainte-Chapelle
+C.Notre Dame
+D.Duomo
+3
+Seat of the Catholic Church.
+Dome, designed by Michelangelo.
+Influenced by the Duomo.
